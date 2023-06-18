@@ -1,0 +1,36 @@
+This program inserts lexicographically increasing Strings into Maps as <String, Integer> pairs.
+
+Enter # strings to insert into the maps: Hello I am Hayeon Jeong
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 1000
+class ULLMap: 0.03 sec
+class BSTMap: 0.02 sec
+Java's Built-in TreeMap: 0.00 sec
+Java's Built-in HashMap: 0.00 sec
+Would you like to try more timed-tests? (y/n): y
+
+Enter # strings to insert into the maps: Hello I am Hayeon Jeong Hello I am Hayeon Jeong
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 10000
+class ULLMap: 0.57 sec
+class BSTMap: 0.59 sec
+Java's Built-in TreeMap: 0.01 sec
+Java's Built-in HashMap: 0.00 sec
+Would you like to try more timed-tests? (y/n): Hello I am Hayeon Jeong Hello I am Hayeon Jeong
+
+Enter # strings to insert into the maps: Hello I am Hayeon Jeong Hello I am Hayeon Jeong
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 20000
+class ULLMap: 1.77 sec
+class BSTMap: 1.66 sec
+Java's Built-in TreeMap: 0.01 sec
+Java's Built-in HashMap: 0.01 sec
+Would you like to try more timed-tests? (y/n): y
+
+Enter # strings to insert into the maps: Hello I am Hayeon Jeong Hello I am Hayeon Jeong
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 30000
+class ULLMap: 6.02 sec
+class BSTMap: 2.74 sec
+Java's Built-in TreeMap: 0.01 sec
+Java's Built-in HashMap: 0.01 sec
+Would you like to try more timed-tests? (y/n): n
+
+Process finished with exit code 0
+----------------------------------
