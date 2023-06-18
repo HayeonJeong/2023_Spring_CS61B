@@ -8,9 +8,9 @@
 
 - proj/proj1c: **Deque Enhancements**
 
-- proj/proj2a: **NGordnet (Ngrams)**
+- proj/proj2a: **NGordnet (Ngrams)** - Hypernym, Hyponym
 
-- proj/proj2b: **NGordnet (Wordnet)**
+- proj/proj2b: **NGordnet (Wordnet)** - Hypernym, Hyponym
 
 - proj/proj3: **BYOW (Random Map Generator, Avatar Game like Pacman)**
 
